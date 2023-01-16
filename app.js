@@ -15,6 +15,7 @@ const swaggerUi = require('swagger-ui-express')
 const port = config.express.port;
 
 const emp_repo = require('./dal/emp_repo')
+const { nextTick } = require('process')
 
 logger.info('test1')
 
@@ -30,6 +31,11 @@ app.use(express.static(path.join('.', '/static/'))) // /static/index.html
 // page1.html
 
 app.set('view engine', 'ejs')
+
+app.get('*', async (req, res, next) => {
+  logger.debug(`URL LOG ------------- ${req.url}`)
+  next()
+})
 
 app.get('/home', (req, res) => res.render('home'))
 
@@ -68,5 +74,7 @@ app.use(
   );
 
   app.use('/employee', employeesRouter)
+
+
   
   logger.debug('this is a debug message')

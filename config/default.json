@@ -17,6 +17,6 @@
         "port": 8080
     },
     "logger": {
-        "level": "info"
+        "level": "debug"
     }
 }
