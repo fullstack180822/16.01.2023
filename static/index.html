@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>HELLO EXPRESS</title>
+</head>
+
+<body>
+    <h1>GET</h1>
+    <button onclick="run_me()">FIRE AJAX GET ALL</button>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>AGE</th>
+                <th>ADDRESS</th>
+                <th>SALARY</th>
+            </tr>
+        </thead>
+        <tbody id="data">
+
+        </tbody>
+    </table>
+    <hr />
+    <h1>INSERT</h1>
+    <p>NAME : <input type="text" id="txt_name"></p>
+    <p>AGE : <input type="number" id="txt_age"></p>
+    <p>ADDRESS : <input type="text" id="txt_address"></p>
+    <p>SALARY : <input type="number" id="txt_salary"></p>
+    <p><button onclick="fire_add()">INSERT</button></p>
+    <h1>UPDATE</h1>
+    <p>ID : <input type="number" id="txt_name"></p>
+    <p>NAME : <input type="text" id="txt_name"></p>
+    <p>AGE : <input type="number" id="txt_age"></p>
+    <p>ADDRESS : <input type="text" id="txt_address"></p>
+    <p>SALARY : <input type="number" id="txt_salary"></p>
+    <p><button onclick="fire_update()">UPDATED</button></p>
+    <h1>DELETE</h1>
+    <p>ID : <input type="number" id="txt_name"></p>
+    <p><button onclick="fire_delete()">DELETE</button></p>
+    <script>
+
+        function run_me() {
+            // localhost:8080/index.html
+            // write: /employee
+            //  --> localhost:8080/employee
+
+            // localhost:5500/index.html
+            // write: /employee
+            //  --> localhost:5500/employee    
+            fetch('http://localhost:8080/employee').then(response => response.json()).
+                then(json => {
+                    console.log(json.employees);
+                    var tb = ""
+                    json.employees.forEach(e => {
+                        tb += `<tr><td>${e.id}</td>
+                <td>${e.name}</td>
+                <td>${e.age}</td>
+                <td>${e.address}</td>
+                <td>${e.salary}</td></tr>`
+                    });
+                    document.getElementById('data').innerHTML = tb
+
+                    // sqlite
+                })
+        }
+
+        async function fire_add() {
+            // demo code
+            const new_employee = {
+                name: document.getElementById('txt_name').value,
+                age: parseFloat(document.getElementById('txt_age').value),
+                address: document.getElementById('txt_address').value,
+                salary: parseFloat(document.getElementById('txt_salary').value)
+            }
+            const result = await fetch('/employee', {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-type': 'application/json',
+                },
+                // take from inputs 
+                body: JSON.stringify(new_employee)
+            })
+           // run_me()
+
+        }
+        function fire_update() {
+
+        }
+        function fire_delete() {
+            // demo code
+            //const id = from_text_box
+            // fetch(`/employee/${id}`, {
+            //     method: 'DELETE',
+            //     headers: {
+            //         'Accept': 'application/json',
+            //         'Content-type': 'application/json'
+            //     }}).then()
+        }            
+
+        run_me()
+    </script>
+</body>
+
+</html>

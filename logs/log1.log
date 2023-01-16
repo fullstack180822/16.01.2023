@@ -1,0 +1,3300 @@
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:39:10.122Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:39:10.508Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:39:10.536Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:39:10.541Z'
+}
+{
+  message: '[employees router][router.get] parameter :id = 1',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:39:34.724Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:52:19.831Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:52:20.188Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:52:20.223Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:52:20.225Z'
+}
+{
+  message: '[employees router][router.get] parameter :id = 1',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:52:42.780Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:55:49.661Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:56:06.995Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:56:29.406Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:56:29.781Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:56:29.820Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:56:29.823Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:56:36.576Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:10.042Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:10.391Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:10.423Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:10.426Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:14.853Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:15.194Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:15.229Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:15.232Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:22.096Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:22.488Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:22.532Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:22.536Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:23.701Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:24.112Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:24.156Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:57:24.160Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:07.839Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:08.185Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:08.217Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:08.220Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:13.260Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:13.652Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:13.688Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:13.691Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:18.672Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:19.002Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:19.034Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:19.038Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:21.988Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:22.368Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:22.411Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:22.416Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:47.953Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:48.297Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:48.330Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:48.334Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:52.777Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:53.121Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:53.157Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:53.161Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:58.595Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:58.961Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:58.995Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:58:58.999Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:02.052Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:02.417Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:02.449Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:02.453Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:03.546Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:03.876Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:03.921Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:03.926Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:04.606Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:04.989Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:05.039Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:05.043Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:08.203Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:08.544Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:08.577Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:08.581Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:14.552Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:24.215Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:24.590Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:24.623Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:24.626Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:24.674Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address1":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:24.704Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:29.342Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:29.691Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:29.729Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:29.733Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:35.700Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:36.033Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:36.070Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:36.074Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:41.416Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:41.748Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:41.782Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:41.785Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:45.909Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:46.266Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:46.304Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:46.308Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:52.074Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:52.488Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:52.538Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:52.543Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:56.317Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:56.696Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:56.730Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T15:59:56.734Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:00.477Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:00.836Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:00.873Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:00.877Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:02.579Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:02.939Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:02.986Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:02.989Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:04.774Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:05.121Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:05.155Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:05.159Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:09.561Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:09.895Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:09.929Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:09.933Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:11.974Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:12.330Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:12.364Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:12.367Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:14.025Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:14.357Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:14.393Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:14.396Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:19.355Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:19.700Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:19.733Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:19.737Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:21.385Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:21.742Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:21.777Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:21.781Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:23.895Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:24.242Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:24.280Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:24.284Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:26.444Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:26.823Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:26.860Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:26.863Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:28.884Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:29.309Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:29.351Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:29.354Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:32.348Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:32.713Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:32.753Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:32.757Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:33.741Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:34.091Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:34.134Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:34.140Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:37.498Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:37.531Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:37.534Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:37.536Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:00:37.539Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:05.447Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:05.774Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:05.807Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:05.811Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:14.842Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:14.872Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:14.877Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:14.879Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:39.471Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:39.840Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:39.882Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:39.885Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:45.317Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:45.719Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:45.755Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:45.758Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:46.798Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:46.828Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:46.833Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:02:46.837Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:07.554Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:07.908Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:07.947Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:07.950Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:11.612Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:11.967Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:12.001Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:12.004Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:13.206Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:13.247Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:13.250Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:13.252Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:42.911Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:43.261Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:43.294Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:43.297Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:51.138Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:51.499Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:51.535Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:51.539Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:53.684Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:53.721Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:53.724Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:03:53.726Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:14.303Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:14.661Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:14.696Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:14.700Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:42.555Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:43.060Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:43.105Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:43.110Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:48.277Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:48.614Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:48.647Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:48.651Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:51.910Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:52.256Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:52.289Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:05:52.293Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:06.167Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:06.497Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:06.530Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:06.533Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:13.067Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:13.414Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:13.452Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:13.455Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:14.619Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:14.964Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:14.997Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:15.001Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:16.373Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:16.735Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:16.775Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:16.779Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:21.737Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:22.083Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:22.119Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:22.123Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:24.542Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:24.891Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:24.926Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:24.930Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:32.618Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:32.955Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:32.987Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:06:32.991Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:07:10.299Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:07:10.612Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:07:10.645Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:07:10.648Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:15.771Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:16.099Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:16.131Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:16.134Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:24.163Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:24.492Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:24.523Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:24.527Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:27.969Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:28.302Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:28.335Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:28.339Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:30.445Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:30.815Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:30.851Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:30.854Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:31.740Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:32.136Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:32.168Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:32.172Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:33.088Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:33.477Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:33.518Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:33.521Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:34.457Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:34.851Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:34.887Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:34.890Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:36.853Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:37.212Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:37.245Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:37.248Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:37.917Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:38.283Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:38.320Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:38.324Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:42.152Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:42.484Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:42.518Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:42.521Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:49.085Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:49.447Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:49.503Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:49.508Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:51.012Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:51.350Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:51.384Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:51.388Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:53.225Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:53.243Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:53.245Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:53.247Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:53.249Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:09:59.703Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:00.036Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:00.071Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:00.074Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:02.213Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:02.565Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:02.604Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:02.608Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:04.034Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:04.393Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:04.428Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:04.432Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:10.020Z'
+}
+{
+  message: '[employees router][router.get] parameter :id = 1',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:10.056Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:10.172Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:10.174Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:10.176Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:10:10.178Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:27.079Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:27.495Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:27.530Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:27.533Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:30.013Z'
+}
+{
+  message: '[employees router][router.get] parameter :id = 1',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:30.053Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:30.217Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:30.220Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:30.223Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:30.225Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:51.914Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:52.257Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:52.291Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:52.294Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:59.342Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:59.771Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:59.811Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:13:59.816Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:04.476Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:04.804Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:04.836Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:04.840Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:07.874Z'
+}
+{
+  message: '[employees router][router.get] parameter :id = 1',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:07.908Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:08.031Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:08.033Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:08.035Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:08.036Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:14.957Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:15.297Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:15.333Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:15.337Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:20.283Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:20.608Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:20.642Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:20.646Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:51.694Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:52.028Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:52.067Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:14:52.070Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:15:05.583Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:15:05.926Z'
+}
+{
+  message: 'this is a debug message',
+  level: 'debug',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:15:05.962Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:15:05.966Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:16:04.720Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:16:05.067Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:16:05.104Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:19.881Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:20.286Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:20.334Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:23.520Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:23.861Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:23.903Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:29.932Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:30.269Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:19:30.315Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:02.168Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:02.528Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:02.574Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:05.283Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:05.761Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:05.827Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:09.268Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:09.667Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:09.705Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:19.539Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:19.960Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:20.013Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:22.464Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:22.933Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:22.993Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:23.869Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:24.280Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:24.319Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:42.831Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:43.182Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:43.218Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:47.678Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:48.059Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:48.096Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:49.294Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:49.634Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:49.671Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:50.970Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:51.324Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:51.363Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:57.549Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:57.921Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:57.961Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:59.524Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:59.898Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:21:59.938Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:02.629Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:03.011Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:03.056Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:06.593Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:06.959Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:07.008Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:08.847Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:09.245Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:09.323Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:09.846Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:10.197Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:10.239Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:17.924Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:18.302Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:18.341Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:21.426Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:21.776Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:21.822Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:25.633Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:25.992Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:26.039Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:28.044Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:28.398Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:28.436Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:33.602Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:33.939Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:33.976Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:41.950Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:42.326Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:42.362Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:44.594Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:44.921Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:22:44.961Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:31.399Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:31.761Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:31.799Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:34.674Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:35.061Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:35.097Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:40.726Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:41.079Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:23:41.119Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:12.491Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:12.841Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:12.877Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:18.343Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:18.698Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:18.744Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:25.678Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:26.038Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:26.083Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:26.923Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:27.279Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:27.323Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:33.471Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:33.818Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:33.861Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:37.270Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:37.615Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:37.653Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:45.549Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:45.907Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:45.951Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:46.644Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:47.014Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:47.054Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:58.020Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:58.399Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:24:58.440Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:34.367Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:34.788Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:34.845Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:39.949Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:40.319Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:40.362Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:43.907Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:44.269Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:25:44.313Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:26:37.785Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:26:38.129Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:26:38.172Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:26:39.016Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:26:39.377Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:26:39.420Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:32:10.780Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:32:11.143Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:32:11.185Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:32:53.896Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:32:54.255Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:32:54.298Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:17.632Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:18.043Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:18.089Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:25.783Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:26.123Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:26.164Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:34.076Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:34.445Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:34.492Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:38.057Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:38.451Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:38.489Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:39.226Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:39.626Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:39.669Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:42.529Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:42.976Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:43.027Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:46.854Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:47.024Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:47.026Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:47.028Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:47.030Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:58.070Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:58.431Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:33:58.466Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:00.404Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:00.832Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:00.869Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:18.570Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:18.572Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:18.574Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:34:18.576Z'
+}
+{
+  message: 'bad object was recieved. {"age":32,"address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:00.567Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","address":"California","salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:00.569Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"salary":20000}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:00.571Z'
+}
+{
+  message: 'bad object was recieved. {"name":"Paul","age":32,"address":"California"}',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:00.573Z'
+}
+{
+  level: 'info',
+  message: 'What time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:16.791Z'
+}
+{
+  message: 'test1',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:17.210Z'
+}
+{
+  message: '======================== system up ===========================',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-01-16T16:35:17.278Z'
+}
