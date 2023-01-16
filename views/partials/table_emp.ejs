@@ -1,0 +1,30 @@
+<!-- requires employees parameter in the render -->
+<table border="1">
+    <tr></tr>
+        <th>ID</th>
+        <th>NAME</th>
+        <th>AGE</th>
+        <th>ADDRESS</th>
+        <th>SALARY</th>
+    <tr></tr>
+<% 
+for(var i = 0; i < employees.length; i++) {%>
+   <tr>
+     <td>
+        <%= employees[i].id%>
+     </td>
+     <td>
+        <%= employees[i].name%>
+     </td>     
+     <td>
+        <%= employees[i].age%>
+     </td>     
+     <td>
+        <%= employees[i].address%>
+     </td>     
+     <td>
+        <%= employees[i].salary%>
+     </td>                    
+   </tr>
+<% } %>
+</table>

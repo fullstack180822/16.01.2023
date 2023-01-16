@@ -14,6 +14,8 @@ const swaggerUi = require('swagger-ui-express')
 
 const port = config.express.port;
 
+const emp_repo = require('./dal/emp_repo')
+
 logger.info('test1')
 
 const app = express()
@@ -26,6 +28,14 @@ app.use(express.urlencoded({
 
 app.use(express.static(path.join('.', '/static/'))) // /static/index.html
 // page1.html
+
+app.set('view engine', 'ejs')
+
+app.get('/home', (req, res) => res.render('home'))
+
+app.get('/emp', async (req, res) => res.render('emp', {
+  employees : await emp_repo.get_all_emp()
+}))
 
 app.listen(port, () => {
     console.log(`Listening to port ${port}`);

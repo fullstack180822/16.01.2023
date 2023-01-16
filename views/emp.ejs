@@ -1,0 +1,22 @@
+
+<%- include('partials/header'); -%>
+
+<h1>EMPLOYEES</h1>
+
+<%- include('partials/total_emp'); -%>
+
+<%- include('partials/table_emp'); -%>
+
+<button onclick="do_1()">GET</button>
+<script>
+    function do_1() {
+        console.log('aaaaaaaaaaaaaaaa');
+        fetch('https://jsonplaceholder.typicode.com/todos/1')
+        .then((response) => response.json())
+        .then((data) => console.log(data));
+    }
+</script>
+
+<br />
+<br />
+<%- include('partials/footer'); -%>
